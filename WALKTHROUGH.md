@@ -21,6 +21,8 @@ I have verified the implementation by rendering the page in a browser environmen
 ![Experience Section with Logo Icon](assets/screenshots/experience.png)
 ![Projects Section with Colorful Placeholders](assets/screenshots/projects.png)
 ![Contact Section](assets/screenshots/contact.png)
+![Skills Section Infinite Scroll](assets/screenshots/skills_infinite_scroll_view.png)
+![Experience Section Two-Column](assets/screenshots/experience_two_column_view.png)
 
 ## Updates
 - **Content**: Replaced placeholder text with Charles Tsao's resume information.
@@ -30,6 +32,10 @@ I have verified the implementation by rendering the page in a browser environmen
     - Replaced "What People Say" with a custom **Contact Section**.
     - Restyled **Projects Section** to "My Projects" with a dark background and alternating card layout.
     - Updated project images to **colorful black-background placeholders** (temporary due to generation limits).
+- **Skills Section**: Updated to an **infinite scrolling marquee layout** (auto-scrolling loop) with smaller cards and no scrollbar.
+- **Experience Section**: Optimized with a **two-column layout** (70/30 split).
+    - **Left Column**: Simplified description and bullet points.
+    - **Right Column**: Added "Key Technologies" pills and "Primary Focus" area for quick scanning.
 
 ## Next Steps
 - Deploy the website to a hosting provider (e.g., GitHub Pages, Vercel).

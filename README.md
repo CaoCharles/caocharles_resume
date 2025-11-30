@@ -10,8 +10,8 @@ A professional, responsive portfolio website built with HTML5, CSS3, and Vanilla
 -   **Semantic HTML**: Built with accessibility and SEO in mind.
 -   **Custom Sections**:
     -   **Hero**: Introduction and social links.
-    -   **Skills**: Grid layout of technical skills.
-    -   **Experience**: Timeline of professional experience.
+    -   **Skills**: Infinite scrolling marquee layout of technical skills.
+    -   **Experience**: Two-column layout timeline of professional experience with tech stack highlights.
     -   **About Me**: Personal bio and photo.
     -   **Projects**: Showcase of featured projects with a dark theme and alternating layout.
     -   **Contact**: Custom contact form and information.

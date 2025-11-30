@@ -1,30 +1,35 @@
 🧑‍💼 Hero Section
 
-Hello I’m Charles Tsao.
+Hello, I’m Charles Tsao
 Senior Data Science Analyst
-Based in Taipei, Taiwan.
+Based in Taipei, Taiwan
 
-I specialize in machine learning, LLM-driven multi-agent systems, OCR automation, and GraphRAG retrieval engineering. I build end-to-end AI solutions—covering modeling, explainability, deployment, and large-scale business integration—mainly focused on insurance claims analytics, fraud detection, and enterprise automation.
+I specialize in machine learning, LLM-driven multi-agent systems, OCR automation, and GraphRAG retrieval engineering. I build end-to-end AI solutions — spanning modeling, explainability, deployment, and enterprise-scale integration — with a primary focus on insurance claims analytics, fraud detection, and workflow automation.
 
-[GitHub Icon] https://github.com/CaoCharles
-[LinkedIn Icon] www.linkedin.com/in/charles-tsao-3a4224164
-[Email Icon] eric830123@gmail.com
+GitHub: https://github.com/CaoCharles
+
+LinkedIn: https://www.linkedin.com/in/charles-tsao-3a4224164
+
+Email: eric830123@gmail.com
 
 🛠 My Skills
+Machine Learning & LLM
 
 Python
 
-Machine Learning (LightGBM / XGBoost)
+Machine Learning (LightGBM, XGBoost)
 
 SHAP Explainability
 
 LLM / LangChain / Azure OpenAI
 
-Multi-Agent Systems
+Multi-Agent Workflow Design
 
 GraphRAG / Vector Search
 
 OCR Development
+
+Backend & Data Engineering
 
 FastAPI
 
@@ -32,74 +37,78 @@ SQL
 
 PySpark
 
-Git
+CI/CD for ML Deployment
 
-CI/CD (ML Deployment)
+Git / GitHub Actions
 
-Project Management
+Data Pipeline Design
 
-Cross-functional Collaboration
+Collaboration & Product
 
-💼 My Experience
+Technical Project Management
+
+Cross-Functional Collaboration with IT, Claims, Actuaries, Medical Experts
+
+💼 My Experience（新版）
 ⭐ Senior Data Science Analyst — Cathay Life Insurance
 
 Nov 2019 – Present
 
-As a Senior Data Science Analyst, I lead machine learning and AI development across claims analytics, fraud detection, OCR automation, and LLM-based decision support. My responsibilities include end-to-end model development, SHAP explainability, CI/CD deployment, and GraphRAG-based knowledge systems.
+As a Senior Data Science Analyst, I lead machine learning and AI initiatives across claims analytics, fraud detection, OCR automation, and LLM-based decision support. I design and deliver full-cycle AI solutions — from data preparation and modeling to SHAP explainability, deployment, and monitoring — with strong alignment to business and regulatory requirements.
 
-Key contributions:
+Key Contributions
 
-Developed fraud detection models, risk scoring systems, and graph-network analysis for suspicious claims patterns.
+Developed fraud detection models, risk scoring systems, and graph-network analyses to identify suspicious claim patterns.
 
-Built SHAP explainability for regulatory alignment and model transparency.
+Designed SHAP-based explainability for model governance and regulatory compliance.
 
-Led OCR POC collaborations with startups, improving extraction accuracy for medical invoices and certificates.
+Led OCR POC collaborations with external startups, improving extraction accuracy for medical invoices and certificates.
 
-Designed LLM-powered multi-agent workflows for claims reasoning, integrating rule-based logic, vector search, and API orchestration.
+Built LLM-powered multi-agent workflows for claims reasoning by integrating business rules, vector search, and API orchestration.
 
-Researched and implemented GraphRAG for the company’s internal LLM assistant, enhancing retrieval quality.
+Researched and implemented GraphRAG for the company’s internal LLM assistant to enhance retrieval precision.
 
-Served as Product Manager for the corporate LLM Employee Assistant, managing roadmap, design, and cross-department rollout.
+Served as Product Manager for the enterprise LLM Employee Assistant, defining roadmap and coordinating cross-department rollout.
 
-Delivered complete ML lifecycle: data → modeling → evaluation → CI/CD deployment → monitoring.
+Delivered complete ML lifecycle: data → modeling → evaluation → CI/CD → monitoring.
 
 👤 About Me
 
-I am a data science professional passionate about building intelligent systems that solve real business problems. My work focuses on combining machine learning, large language models, graph-based reasoning, and automation to improve operational efficiency and risk control in highly regulated industries.
+I am a data science professional dedicated to building intelligent systems that solve real operational challenges. My work focuses on integrating machine learning, large language models, graph-based reasoning, and automation to improve efficiency and strengthen risk control in highly regulated industries.
 
-I have hands-on experience building fraud detection models, OCR pipelines, multi-agent systems, and GraphRAG retrieval architectures, and delivering these solutions into production. I enjoy working closely with IT teams, business operations, actuaries, and medical experts to transform complex domain logic into scalable AI workflows.
+I have hands-on experience developing fraud detection models, OCR pipelines, multi-agent decision systems, and GraphRAG retrieval architectures — and successfully deploying them into production environments. I enjoy partnering with IT teams, business operations, actuaries, and medical experts to translate complex domain logic into scalable AI workflows.
 
-With a hybrid background across data science, LLM engineering, and product management, I aim to create AI solutions that are technically sound, explainable, and truly impactful for end users.
+With a hybrid background across data science, LLM engineering, and product management, I aim to create AI solutions that are technically robust, explainable, and truly impactful for end users.
 
 🚧 My Projects
 01 — Multi-Agent Claims Decision Assistant
 
-An intelligent LLM-based system that uses multiple agents, vector search, and business rules to assist claims analysts with automated reasoning and case evaluation.
+An LLM-based system using multiple agents, vector search, and business rules to support claims analysts with automated reasoning and case evaluation.
 Impact: Reduced manual review time and improved consistency in decision-making.
 
 02 — Medical OCR Pipeline (Startup Collaboration)
 
-A POC project with external startups to build OCR models for medical invoices and certificates. Leveraged deep-learning OCR and rule extraction to improve data quality for downstream claims processing.
-Impact: Significantly increased structured field extraction accuracy and reduced manual data entry.
+A POC with external startups to build OCR solutions for medical invoices and certificates. Combined deep-learning OCR with structured rule extraction to enhance downstream claims processing.
+Impact: Significantly increased structured field accuracy and reduced manual data entry workload.
 
 03 — Fraud Detection Graph Network Model
 
-Graph-based ML model for detecting suspicious clusters across claims, hospitals, and policyholders. Uses network relationships to identify abnormal behavior patterns.
-Impact: Enhanced early fraud detection capability and supported risk-control operations.
+A graph-based ML model analyzing connections among claims, hospitals, and policyholders to detect abnormal behavior clusters.
+Impact: Improved early fraud detection and strengthened risk-control operations.
 
 04 — Employee LLM Assistant (GraphRAG + Agent Workflow)
 
 An enterprise LLM assistant integrating GraphRAG retrieval, multi-agent orchestration, and internal knowledge systems for high-accuracy information support.
-Impact: Enabled employees to retrieve complex information more efficiently with increased accuracy.
+Impact: Enabled faster, more accurate retrieval of complex information for employees.
 
 ✉️ Contact Me
+
 Tsao Charles
-Email: eric830123@gmail.com
-Website / LinkedIn: https://www.linkedin.com/in/charles-tsao-3a4224164
+📧 Email: eric830123@gmail.com
 
-Let’s talk for something special.
-I’m open to collaboration, AI/ML consultations, and LLM system development opportunities.
+🔗 LinkedIn: https://www.linkedin.com/in/charles-tsao-3a4224164
 
-📧 eric830123@gmail.com
+📍 Based in Taipei, Taiwan
 
-📍 Taipei, Taiwan
+I’m open to opportunities in ML engineering, LLM system development, RAG/GraphRAG, and enterprise AI applications.
+Feel free to reach out — let’s build something impactful together.
